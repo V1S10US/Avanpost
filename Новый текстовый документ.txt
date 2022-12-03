@@ -1,0 +1,3 @@
+cd /d D:\Programming\Projects\Avanpost\venv\Scripts\
+
+streamlit run D:/Programming/Projects/Avanpost/frontend/main.py
